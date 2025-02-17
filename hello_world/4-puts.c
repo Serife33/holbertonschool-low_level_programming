@@ -2,7 +2,8 @@
 
 /* 
  * main -  print a message
- * return to 0 */
+ * return to 0
+ */
 
 int main(void)
 {
