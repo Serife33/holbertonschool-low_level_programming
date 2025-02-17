@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the message "Programming is like building a multilingual puzzle
+ * main - prints "Programming is like building a multilingual puzzle
  *
  * Return: 1 if the number is positive. 0 otherwise
  */
