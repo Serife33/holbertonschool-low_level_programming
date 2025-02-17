@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* print a message */
+/**
+ *  print a message */
 
 int main(void)
 {
