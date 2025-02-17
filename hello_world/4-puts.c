@@ -1,8 +1,8 @@
 #include <stdio.h>
-/** 
- *  main -  print a message 
- *  
- *  Return : 1 if the nÄumber is positive, 0 otherwise 
+/**
+ * main - prints the message "Programming is like building a multilingual puzzle
+ *
+ * Return: 1 if the number is positive. 0 otherwise
  */
 int main(void)
 {
