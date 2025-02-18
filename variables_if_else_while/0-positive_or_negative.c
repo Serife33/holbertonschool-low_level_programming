@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main checks if the number is positive, negative or equal to zero
- * return turns 0
+ * main - checks if the number is positive, negative or equal to zero
+ *
+ * Return: turns 0
  */
 int main(void)
 {
