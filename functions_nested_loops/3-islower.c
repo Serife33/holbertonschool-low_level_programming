@@ -3,7 +3,7 @@
 /**
  * _islower - find lowercase letter.
  *
- * c - is parameter
+ * @c: the character to check
  *
  * Return: Always 0.
  */
