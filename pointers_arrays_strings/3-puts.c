@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * _puts - put the words 
+ * _puts - put the words
  *
  * @str: character to print
  *
